@@ -1,7 +1,6 @@
-# mass-deauth
-
-Deauthentication Script for Downing Batches of APs
-
+# mass-deauthenticate
+A tiny program for deauthenticating batches of APs simultaneously.
+------------------------------------------------------------------
 Please use this responsibly. Set up a lab. Don't attack APs you don't have explicit concent to attack.
 
 This is what the program _should_ look like when running it with the -h switch.
