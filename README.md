@@ -1,6 +1,5 @@
 # mass-deauth
 ##Deauthentication Script for Downing Batches of APs
---------------------------------------------------
 
 ###Please use this responsibly. Set up a lab. Don't attack APs you don't have explicit concent to attack.
 
